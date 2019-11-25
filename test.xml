@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns="http://purl.org/rss/1.0/"
+         xmlns:cc="http://web.resource.org/cc/"
+         xmlns:content="http://purl.org/rss/1.0/modules/content/"
+         xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <channel rdf:about="https://onlinelibrary.wiley.com/journal/15406261?af=R">
+      <title>Wiley: The Journal of Finance: Table of Contents</title>
+      <description>Table of Contents for The Journal of Finance. List of articles from both the latest and EarlyView issues.</description>
+      <link>https://onlinelibrary.wiley.com/journal/15406261?af=R</link>
+      <dc:title>Wiley: The Journal of Finance: Table of Contents</dc:title>
+      <dc:publisher>Wiley</dc:publisher>
+      <dc:language>en-US</dc:language>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <items>
+         <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12854?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12863?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12846?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12851?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12862?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12864?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12857?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12853?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12843?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12856?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12844?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12845?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12855?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12847?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12848?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12852?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12842?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12849?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12643?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12824?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12817?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12820?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12823?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12818?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12819?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12780?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12784?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12785?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12821?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12822?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12777?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12779?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12642?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12641?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12644?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12645?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12834?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12830?af=R"/>
+            <rdf:li rdf:resource="/doi/abs/10.1111/jofi.12831?af=R"/>
+         </rdf:Seq>
+      </items>
+   </channel>
+   <image rdf:about="https://onlinelibrary.wiley.com/pb-assets/journal-banners/15406261.jpg">
+      <title>The Journal of Finance</title>
+      <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15406261.jpg</url>
+      <link>https://onlinelibrary.wiley.com/journal/15406261?af=R</link>
+   </image>
+   <item rdf:about="/doi/abs/10.1111/jofi.12854?af=R">
+      <title>On Comparing Asset Pricing Models</title>
+      <dc:description>
+ABSTRACT
+Revisiting the framework of (Barillas, Francisco, and Jay Shanken, 2018, Comparing asset pricing models, The Journal of Finance 73, 715–754). BS henceforth, we show that the Bayesian marginal likelihood‐based model comparison method in that paper is unsound : the priors on the nuisance parameters across models must satisfy a change of variable property for densities that is violated by the Jeffreys priors used in the BS method. Extensive simulation exercises confirm that the BS method performs unsatisfactorily. We derive a new class of improper priors on the nuisance parameters, starting from a single improper prior, which leads to valid marginal likelihoods and model comparisons. The performance of our marginal likelihoods is significantly better, allowing for reliable Bayesian work on which factors are risk factors in asset pricing models.</dc:description>
+      <dc:creator>
+SIDDHARTHA CHIB, 
+XIAMING ZENG, 
+LINGXIAO ZHAO
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12854?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Revisiting the framework of (Barillas, Francisco, and Jay Shanken, 2018, Comparing asset pricing models, &lt;i&gt;The Journal of Finance&lt;/i&gt; 73, 715–754). BS henceforth, we show that the Bayesian marginal likelihood‐based model comparison method in that paper is unsound : the priors on the nuisance parameters across models must satisfy a change of variable property for densities that is violated by the Jeffreys priors used in the BS method. Extensive simulation exercises confirm that the BS method performs unsatisfactorily. We derive a new class of improper priors on the nuisance parameters, &lt;i&gt;starting from a single improper prior&lt;/i&gt;, which leads to valid marginal likelihoods and model comparisons. The performance of our marginal likelihoods is significantly better, allowing for reliable Bayesian work on which factors are risk factors in asset pricing models.&lt;/p&gt;</content:encoded>
+      <description>The Journal of Finance, EarlyView. </description>
+      <dc:title>On Comparing Asset Pricing Models</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12854</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-11-21T03:05:06-08:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:doi>10.1111/jofi.12854</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12854?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12863?af=R">
+      <title>Glued to the TV Distracted Noise Traders and Stock Market Liquidity</title>
+      <dc:description>
+ABSTRACT
+In this paper we study the impact of noise traders’ limited attention on financial markets. Specifically we exploit episodes of sensational news (exogenous to the market) that distract noise traders. We find that on “distraction days,” trading activity, liquidity, and volatility decrease, and prices reverse less among stocks owned predominantly by noise traders. These outcomes contrast sharply with those due to the inattention of informed speculators and market makers, and are consistent with noise traders mitigating adverse selection risk. We discuss the evolution of these outcomes over time and the role of technological changes.
+This article is protected by copyright. All rights reserved
+</dc:description>
+      <dc:creator>
+JOEL PERESS, 
+DANIEL SCHMIDT
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12863?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;In this paper we study the impact of noise traders’ limited attention on financial markets. Specifically we exploit episodes of sensational news (exogenous to the market) that distract noise traders. We find that on “distraction days,” trading activity, liquidity, and volatility decrease, and prices reverse less among stocks owned predominantly by noise traders. These outcomes contrast sharply with those due to the inattention of informed speculators and market makers, and are consistent with noise traders mitigating adverse selection risk. We discuss the evolution of these outcomes over time and the role of technological changes.&lt;/p&gt;
+&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;
+</content:encoded>
+      <description>The Journal of Finance, Volume 0, Issue ja, -Not available-. </description>
+      <dc:title>Glued to the TV Distracted Noise Traders and Stock Market Liquidity</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12863</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-11-18T12:04:24-08:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:doi>10.1111/jofi.12863</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12863?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>Rapid Publication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12846?af=R">
+      <title>Access to Collateral and the Democratization of Credit: France's Reform of the Napoleonic Security Code</title>
+      <dc:description>
+ABSTRACT
+France's Ordonnance 2006‐346 repudiated the notion of possessory ownership in the Napoleonic Code, easing the pledge of physical assets in a country where credit was highly concentrated. A differences‐test strategy shows that firms operating newly pledgeable assets significantly increased their borrowing following the reform. Small, young, and financially constrained businesses benefitted the most, observing improved credit access and real‐side outcomes. Start‐ups emerged with higher “at‐inception” leverage, located farther from large cities, with more assets‐in‐place than before. Their exit and bankruptcy rates declined. Spatial analyses show that the reform reached firms in rural areas, reducing credit access inequality across France's countryside.</dc:description>
+      <dc:creator>
+KEVIN ARETZ, 
+MURILLO CAMPELLO, 
+MARIA‐TERESA MARCHICA
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12846?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;France's &lt;i&gt;Ordonnance 2006‐346&lt;/i&gt; repudiated the notion of &lt;i&gt;possessory ownership&lt;/i&gt; in the Napoleonic Code, easing the pledge of physical assets in a country where credit was highly concentrated. A differences‐test strategy shows that firms operating newly pledgeable assets significantly increased their borrowing following the reform. Small, young, and financially constrained businesses benefitted the most, observing improved credit access and real‐side outcomes. Start‐ups emerged with higher “at‐inception” leverage, located farther from large cities, with more assets‐in‐place than before. Their exit and bankruptcy rates declined. Spatial analyses show that the reform reached firms in rural areas, reducing credit access inequality across France's countryside.&lt;/p&gt;</content:encoded>
+      <description>The Journal of Finance, EarlyView. </description>
+      <dc:title>Access to Collateral and the Democratization of Credit: France's Reform of the Napoleonic Security Code</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12846</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-11-18T12:00:00-08:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:doi>10.1111/jofi.12846</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12846?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12851?af=R">
+      <title>The Impact of Salience on Investor Behavior: Evidence from a Natural Experiment</title>
+      <dc:description>
+ABSTRACT
+We test whether the display of information causally affects investor behavior in a high‐stakes trading environment. Using investor‐level brokerage data from China and a natural experiment, we estimate the impact of a shock that increased the salience of a stock's purchase price but did not change the investor's information set. We employ a difference‐in‐differences approach and find that the salience shock causally increased the disposition effect by 17%. We use microdata to document substantial heterogeneity across investors in the treatment effect. A previously documented trading pattern, the “rank effect,” explains heterogeneity in the change in the disposition effect.
+</dc:description>
+      <dc:creator>
+CARY FRYDMAN, 
+BAOLIAN WANG
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12851?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;We test whether the display of information causally affects investor behavior in a high‐stakes trading environment. Using investor‐level brokerage data from China and a natural experiment, we estimate the impact of a shock that increased the salience of a stock's purchase price but did not change the investor's information set. We employ a difference‐in‐differences approach and find that the salience shock causally increased the disposition effect by 17%. We use microdata to document substantial heterogeneity across investors in the treatment effect. A previously documented trading pattern, the “rank effect,” explains heterogeneity in the change in the disposition effect.&lt;/p&gt;
+</content:encoded>
+      <description>The Journal of Finance, EarlyView. </description>
+      <dc:title>The Impact of Salience on Investor Behavior: Evidence from a Natural Experiment</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12851</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-11-17T12:00:00-08:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:doi>10.1111/jofi.12851</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12851?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12862?af=R">
+      <title>Beyond Random Assignment: Credible Inference and Extrapolation in Dynamic Economies</title>
+      <dc:description>
+ABSTRACT
+We derive analytical relationships between shock responses and theory‐implied causal effects (comparative statics) in dynamic settings with linear profits and linear‐quadratic stock accumulation costs. For permanent profitability shocks, responses can have incorrect signs, undershoot, or overshoot depending on the size and sign of realized changes. For profitability shocks that are i.i.d., uniformly distributed, binary, or unanticipated and temporary, there is attenuation bias, which exceeds 50% under plausible parameterizations. We derive a novel sufficient condition for profitability shock responses to equal causal effects: martingale profitability. We establish a battery of sufficient conditions for correct sign estimation, including stochastic monotonicity. Simple extrapolation/error correction formulae are presented.
+This article is protected by copyright. All rights reserved
+</dc:description>
+      <dc:creator>
+CHRISTOPHER A. HENNESSY, 
+ILYA A. STREBULAEV
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12862?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;We derive analytical relationships between shock responses and theory‐implied causal effects (comparative statics) in dynamic settings with linear profits and linear‐quadratic stock accumulation costs. For permanent profitability shocks, responses can have incorrect signs, undershoot, or overshoot depending on the size and sign of realized changes. For profitability shocks that are i.i.d., uniformly distributed, binary, or unanticipated and temporary, there is attenuation bias, which exceeds 50% under plausible parameterizations. We derive a novel sufficient condition for profitability shock responses to equal causal effects: martingale profitability. We establish a battery of sufficient conditions for correct sign estimation, including stochastic monotonicity. Simple extrapolation/error correction formulae are presented.&lt;/p&gt;
+&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;
+</content:encoded>
+      <description>The Journal of Finance, Volume 0, Issue ja, -Not available-. </description>
+      <dc:title>Beyond Random Assignment: Credible Inference and Extrapolation in Dynamic Economies</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12862</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-11-16T01:29:36-08:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:doi>10.1111/jofi.12862</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12862?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>Rapid Publication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12864?af=R">
+      <title>Relationship Trading in OTC Markets</title>
+      <dc:description>
+ABSTRACT
+We examine the network of trading relationships between insurers and dealers in the over‐the‐counter corporate bond market. Regulatory data show that one‐third of insurers use a single dealer, while other insurers have large dealer networks. Execution prices are nonmonotone in network size, initially declining with more dealers but increasing once networks exceed 20 dealers. A model of decentralized trade in which insurers trade off the benefits of repeat business and faster execution quantitatively fits the distribution of insurers' network size and explains the price–network size relationship. Counterfactual analysis shows that regulations to unbundle trade and nontrade services can decrease welfare.
+This article is protected by copyright. All rights reserved
+</dc:description>
+      <dc:creator>
+TERRENCE HENDERSHOTT, 
+DAN LI, 
+DMITRY LIVDAN, 
+NORMAN SCHÜRHOFF
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12864?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;We examine the network of trading relationships between insurers and dealers in the over‐the‐counter corporate bond market. Regulatory data show that one‐third of insurers use a single dealer, while other insurers have large dealer networks. Execution prices are nonmonotone in network size, initially declining with more dealers but increasing once networks exceed 20 dealers. A model of decentralized trade in which insurers trade off the benefits of repeat business and faster execution quantitatively fits the distribution of insurers' network size and explains the price–network size relationship. Counterfactual analysis shows that regulations to unbundle trade and nontrade services can decrease welfare.&lt;/p&gt;
+&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;
+</content:encoded>
+      <description>The Journal of Finance, Volume 0, Issue ja, -Not available-. </description>
+      <dc:title>Relationship Trading in OTC Markets</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12864</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-11-15T04:15:04-08:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:doi>10.1111/jofi.12864</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12864?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>Rapid Publication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12857?af=R">
+      <title>Informed Trading and Intertemporal Substitution</title>
+      <dc:description>
+ABSTRACT
+I examine the possibility of information‐based trading in a multiperiod consumption setting. I develop a necessary and sufficient condition for trade to occur. Intertemporal substitution introduces a desire to correlate current consumption with future aggregate shocks. When agents have heterogeneous time‐inseparable preferences, information differentially affects relative preferences for current and future consumption, making information‐based trading mutually acceptable. The no‐trade result continues to hold if there is no aggregate shock, or if agents have either homogeneous or time‐separable preferences.</dc:description>
+      <dc:creator>
+YIZHOU XIAO
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12857?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;I examine the possibility of information‐based trading in a multiperiod consumption setting. I develop a necessary and sufficient condition for trade to occur. Intertemporal substitution introduces a desire to correlate current consumption with future aggregate shocks. When agents have heterogeneous time‐inseparable preferences, information differentially affects relative preferences for current and future consumption, making information‐based trading mutually acceptable. The no‐trade result continues to hold if there is no aggregate shock, or if agents have either homogeneous or time‐separable preferences.&lt;/p&gt;</content:encoded>
+      <description>The Journal of Finance, EarlyView. </description>
+      <dc:title>Informed Trading and Intertemporal Substitution</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12857</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-11-13T03:34:05-08:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:doi>10.1111/jofi.12857</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12857?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12853?af=R">
+      <title>Measuring Innovation and Product Differentiation: Evidence from Mutual Funds</title>
+      <dc:description>
+ABSTRACT
+We study innovation and product differentiation using a uniqueness measure based on textual analysis of prospectuses. We find that small and start‐up families have higher start rates than larger families, and their products are more unique. Unique strategies attract more inflows in the first three years, and investors respond more to text‐based uniqueness than other measures such as holdings or returns uniqueness. For established funds, word uniqueness has weak negative power for explaining returns, so investors in competitive equilibrium do not sacrifice much performance to get specialized products. Uniqueness attenuates the flow‐performance relation, reducing the risk of investor outflows.
+</dc:description>
+      <dc:creator>
+LEONARD KOSTOVETSKY, 
+JEROLD B. WARNER
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12853?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;We study innovation and product differentiation using a uniqueness measure based on textual analysis of prospectuses. We find that small and start‐up families have higher start rates than larger families, and their products are more unique. Unique strategies attract more inflows in the first three years, and investors respond more to text‐based uniqueness than other measures such as holdings or returns uniqueness. For established funds, word uniqueness has weak negative power for explaining returns, so investors in competitive equilibrium do not sacrifice much performance to get specialized products. Uniqueness attenuates the flow‐performance relation, reducing the risk of investor outflows.&lt;/p&gt;
+</content:encoded>
+      <description>The Journal of Finance, EarlyView. </description>
+      <dc:title>Measuring Innovation and Product Differentiation: Evidence from Mutual Funds</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12853</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-11-12T09:16:21-08:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:doi>10.1111/jofi.12853</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12853?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12843?af=R">
+      <title>Tax‐Efficient Asset Management: Evidence from Equity Mutual Funds</title>
+      <dc:description>
+ABSTRACT
+We investigate the relation between tax burdens and mutual fund performance from both a theoretical and an empirical perspective. The theoretical model introduces heterogeneous tax clienteles in an environment with decreasing returns to scale and shows that the equilibrium performance of mutual funds depends on the size of the tax clienteles. Our empirical results show that the performance of U.S. equity mutual funds is related to their tax burdens. We find that tax‐efficient funds exhibit not only superior after‐tax performance, but also superior before‐tax performance due to lower trading costs, favorable style exposures, and better selectivity.</dc:description>
+      <dc:creator>
+CLEMENS SIALM, 
+HANJIANG ZHANG
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12843?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;We investigate the relation between tax burdens and mutual fund performance from both a theoretical and an empirical perspective. The theoretical model introduces heterogeneous tax clienteles in an environment with decreasing returns to scale and shows that the equilibrium performance of mutual funds depends on the size of the tax clienteles. Our empirical results show that the performance of U.S. equity mutual funds is related to their tax burdens. We find that tax‐efficient funds exhibit not only superior after‐tax performance, but also superior before‐tax performance due to lower trading costs, favorable style exposures, and better selectivity.&lt;/p&gt;</content:encoded>
+      <description>The Journal of Finance, EarlyView. </description>
+      <dc:title>Tax‐Efficient Asset Management: Evidence from Equity Mutual Funds</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12843</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-11-12T03:07:08-08:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:doi>10.1111/jofi.12843</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12843?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12856?af=R">
+      <title>The Insurance Is the Lemon: Failing to Index Contracts</title>
+      <dc:description>
+ABSTRACT
+We model the widespread failure of contracts to share risk using available indices. A borrower and lender can share risk by conditioning repayments on an index. The lender has private information about the ability of this index to measure the true state that the borrower would like to hedge. The lender is risk‐averse and thus requires a premium to insure the borrower. The borrower, however, might be paying something for nothing if the index is a poor measure of the true state. We provide sufficient conditions for this effect to cause the borrower to choose a nonindexed contract instead.</dc:description>
+      <dc:creator>
+BARNEY HARTMAN‐GLASER, 
+BENJAMIN HÉBERT
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12856?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;We model the widespread failure of contracts to share risk using available indices. A borrower and lender can share risk by conditioning repayments on an index. The lender has private information about the ability of this index to measure the true state that the borrower would like to hedge. The lender is risk‐averse and thus requires a premium to insure the borrower. The borrower, however, might be paying something for nothing if the index is a poor measure of the true state. We provide sufficient conditions for this effect to cause the borrower to choose a nonindexed contract instead.&lt;/p&gt;</content:encoded>
+      <description>The Journal of Finance, EarlyView. </description>
+      <dc:title>The Insurance Is the Lemon: Failing to Index Contracts</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12856</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-11-12T01:45:25-08:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:doi>10.1111/jofi.12856</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12856?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12844?af=R">
+      <title>Trading Against the Random Expiration of Private Information: A Natural Experiment</title>
+      <dc:description>
+ABSTRACT
+For years, the Securities and Exchange Commission (SEC) accidentally distributed securities disclosures to some investors before the public. We exploit this setting, which is unique because the delay until public disclosure was exogenous and the private information window was well defined, to study informed trading with a random stopping time. Trading intensity and the pace at which prices incorporate information decrease with the expected delay until public release, but the relation between trading intensity and time elapsed varies with traders' learning process. Noise trading and relative information advantage play similar roles as in standard microstructure theories assuming a fixed time window.</dc:description>
+      <dc:creator>
+MOHAMMADREZA BOLANDNAZAR, 
+ROBERT J. JACKSON, 
+WEI JIANG, 
+JOSHUA MITTS
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12844?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;For years, the Securities and Exchange Commission (SEC) accidentally distributed securities disclosures to some investors before the public. We exploit this setting, which is unique because the delay until public disclosure was exogenous and the private information window was well defined, to study informed trading with a random stopping time. Trading intensity and the pace at which prices incorporate information decrease with the expected delay until public release, but the relation between trading intensity and time elapsed varies with traders' learning process. Noise trading and relative information advantage play similar roles as in standard microstructure theories assuming a fixed time window.&lt;/p&gt;</content:encoded>
+      <description>The Journal of Finance, EarlyView. </description>
+      <dc:title>Trading Against the Random Expiration of Private Information: A Natural Experiment</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12844</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-11-12T01:37:01-08:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:doi>10.1111/jofi.12844</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12844?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12845?af=R">
+      <title>A Tale of Two Premiums: The Role of Hedgers and Speculators in Commodity Futures Markets</title>
+      <dc:description>
+ABSTRACT
+This paper studies the dynamic interaction between the net positions of traders and risk premiums in commodity futures markets. Short‐term position changes are driven mainly by the liquidity demands of noncommercial traders, while long‐term variation is driven primarily by the hedging demands of commercial traders. These two components influence expected futures returns with opposite signs. The gains from providing liquidity by commercials largely offset the premium they pay for obtaining price insurance.
+</dc:description>
+      <dc:creator>
+WENJIN KANG, 
+K. GEERT ROUWENHORST, 
+KE TANG
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12845?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;This paper studies the dynamic interaction between the net positions of traders and risk premiums in commodity futures markets. Short‐term position changes are driven mainly by the liquidity demands of noncommercial traders, while long‐term variation is driven primarily by the hedging demands of commercial traders. These two components influence expected futures returns with opposite signs. The gains from providing liquidity by commercials largely offset the premium they pay for obtaining price insurance.&lt;/p&gt;
+</content:encoded>
+      <description>The Journal of Finance, EarlyView. </description>
+      <dc:title>A Tale of Two Premiums: The Role of Hedgers and Speculators in Commodity Futures Markets</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12845</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-11-12T01:35:36-08:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:doi>10.1111/jofi.12845</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12845?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12855?af=R">
+      <title>Robust Inference for Consumption‐Based Asset Pricing</title>
+      <dc:description>
+ABSTRACT
+The reliability of traditional asset pricing tests depends on: (i) the correlations between asset returns and factors; (ii) the time series sample size T compared to the number of assets N. For macro‐risk factors, like consumption growth, (i) and (ii) are often such that traditional tests cannot be trusted. We extend the Gibbons‐Ross‐Shanken statistic to test identification of risk premia and construct their 95% confidence sets. These sets are wide or unbounded when T and N are close, but show that average returns are not fully spanned by betas when T exceeds N considerably. Our findings indicate when meaningful empirical inference is feasible.</dc:description>
+      <dc:creator>
+FRANK KLEIBERGEN, 
+ZHAOGUO ZHAN
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12855?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;The reliability of traditional asset pricing tests depends on: (i) the correlations between asset returns and factors; (ii) the time series sample size &lt;i&gt;T&lt;/i&gt; compared to the number of assets &lt;i&gt;N&lt;/i&gt;. For macro‐risk factors, like consumption growth, (i) and (ii) are often such that traditional tests cannot be trusted. We extend the Gibbons‐Ross‐Shanken statistic to test identification of risk premia and construct their 95% confidence sets. These sets are wide or unbounded when &lt;i&gt;T&lt;/i&gt; and &lt;i&gt;N&lt;/i&gt; are close, but show that average returns are not fully spanned by betas when &lt;i&gt;T&lt;/i&gt; exceeds &lt;i&gt;N&lt;/i&gt; considerably. Our findings indicate when meaningful empirical inference is feasible.&lt;/p&gt;</content:encoded>
+      <description>The Journal of Finance, EarlyView. </description>
+      <dc:title>Robust Inference for Consumption‐Based Asset Pricing</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12855</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-11-12T12:00:00-08:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:doi>10.1111/jofi.12855</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12855?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12847?af=R">
+      <title>Stimulating Housing Markets</title>
+      <dc:description>
+ABSTRACT
+We study temporary fiscal stimulus designed to support distressed housing markets by inducing demand from buyers in the private market. Using difference‐in‐differences and regression kink research designs, we find that the First‐Time Homebuyer Credit increased home sales by 490,000 (9.8%), median home prices by $2,400 (1.1%) per standard deviation increase in program exposure, and the transition rate into homeownership by 53%. The policy response did not reverse immediately. Instead, demand comes from several years in the future: induced buyers were three years younger in 2009 than typical first‐time buyers. The program's market‐stabilizing benefits likely exceeded its direct stimulus effects.</dc:description>
+      <dc:creator>
+DAVID BERGER, 
+NICHOLAS TURNER, 
+ERIC ZWICK
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12847?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;We study temporary fiscal stimulus designed to support distressed housing markets by inducing demand from buyers in the private market. Using difference‐in‐differences and regression kink research designs, we find that the First‐Time Homebuyer Credit increased home sales by 490,000 (9.8%), median home prices by $2,400 (1.1%) per standard deviation increase in program exposure, and the transition rate into homeownership by 53%. The policy response did not reverse immediately. Instead, demand comes from several years in the future: induced buyers were three years younger in 2009 than typical first‐time buyers. The program's market‐stabilizing benefits likely exceeded its direct stimulus effects.&lt;/p&gt;</content:encoded>
+      <description>The Journal of Finance, EarlyView. </description>
+      <dc:title>Stimulating Housing Markets</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12847</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-11-12T12:00:00-08:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:doi>10.1111/jofi.12847</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12847?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12848?af=R">
+      <title>The Market for Conflicted Advice</title>
+      <dc:description>
+ABSTRACT
+We present a model of the market for advice in which advisers have conflicts of interest and compete for heterogeneous customers through information provision. The competitive equilibrium features information dispersion and partial disclosure. Although conflicted fees lead to distorted information, they are irrelevant for customers' welfare: banning conflicted fees improves only the information quality, not customers' welfare. Instead, financial literacy education for the least informed customers can improve all customers' welfare because of a spillover effect. Furthermore, customers who trade through advisers realize lower average returns, which rationalizes empirical findings.</dc:description>
+      <dc:creator>
+BRIANA CHANG, 
+MARTIN SZYDLOWSKI
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12848?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;We present a model of the market for advice in which advisers have conflicts of interest and compete for heterogeneous customers through information provision. The competitive equilibrium features information dispersion and partial disclosure. Although conflicted fees lead to distorted information, they are irrelevant for customers' welfare: banning conflicted fees improves only the information quality, not customers' welfare. Instead, financial literacy education for the least informed customers can improve all customers' welfare because of a spillover effect. Furthermore, customers who trade through advisers realize lower average returns, which rationalizes empirical findings.&lt;/p&gt;</content:encoded>
+      <description>The Journal of Finance, EarlyView. </description>
+      <dc:title>The Market for Conflicted Advice</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12848</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-11-08T03:11:11-08:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:doi>10.1111/jofi.12848</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12848?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12852?af=R">
+      <title>Why Don't We Agree? Evidence from a Social Network of Investors</title>
+      <dc:description>
+ABSTRACT
+We study sources of investor disagreement using sentiment of investors from a social media investing platform, combined with information on the users' investment approaches (e.g., technical, fundamental). We examine how much of overall disagreement is driven by different information sets versus differential interpretation of information by studying disagreement within and across investment approaches. Overall disagreement is evenly split between both sources of disagreement, but within‐group disagreement is more tightly related to trading volume than cross‐group disagreement. Although both sources of disagreement are important, our findings suggest that information differences are more important for trading than differences across market approaches.</dc:description>
+      <dc:creator>
+J. ANTHONY COOKSON, 
+MARINA NIESSNER
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12852?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;We study sources of investor disagreement using sentiment of investors from a social media investing platform, combined with information on the users' investment approaches (e.g., technical, fundamental). We examine how much of overall disagreement is driven by different information sets versus differential interpretation of information by studying disagreement within and across investment approaches. Overall disagreement is evenly split between both sources of disagreement, but within‐group disagreement is more tightly related to trading volume than cross‐group disagreement. Although both sources of disagreement are important, our findings suggest that information differences are more important for trading than differences across market approaches.&lt;/p&gt;</content:encoded>
+      <description>The Journal of Finance, EarlyView. </description>
+      <dc:title>Why Don't We Agree? Evidence from a Social Network of Investors</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12852</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-11-07T03:44:18-08:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:doi>10.1111/jofi.12852</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12852?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12842?af=R">
+      <title>Houses as ATMs: Mortgage Refinancing and Macroeconomic Uncertainty</title>
+      <dc:description>
+ABSTRACT
+Mortgage refinancing activity associated with extraction of home equity contains a strongly countercyclical component consistent with household demand for liquidity. We estimate a structural model of liquidity management featuring countercyclical idiosyncratic labor income uncertainty, long‐ and short‐term mortgages, and realistic borrowing constraints. We empirically evaluate its predictions for households' choices of leverage, liquid assets, and mortgage refinancing using microlevel data. Taking the observed historical paths of house prices, aggregate income, and interest rates as given, the model accounts for many salient features in the evolution of balance sheets and consumption in the cross‐section of households over 2001 to 2012.</dc:description>
+      <dc:creator>
+HUI CHEN, 
+MICHAEL MICHAUX, 
+NIKOLAI ROUSSANOV
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12842?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Mortgage refinancing activity associated with extraction of home equity contains a strongly countercyclical component consistent with household demand for liquidity. We estimate a structural model of liquidity management featuring countercyclical idiosyncratic labor income uncertainty, long‐ and short‐term mortgages, and realistic borrowing constraints. We empirically evaluate its predictions for households' choices of leverage, liquid assets, and mortgage refinancing using microlevel data. Taking the observed historical paths of house prices, aggregate income, and interest rates as given, the model accounts for many salient features in the evolution of balance sheets and consumption in the cross‐section of households over 2001 to 2012.&lt;/p&gt;</content:encoded>
+      <description>The Journal of Finance, EarlyView. </description>
+      <dc:title>Houses as ATMs: Mortgage Refinancing and Macroeconomic Uncertainty</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12842</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-11-07T03:33:08-08:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:doi>10.1111/jofi.12842</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12842?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12849?af=R">
+      <title>Does Borrowing from Banks Cost More than Borrowing from the Market?</title>
+      <dc:description>
+ABSTRACT
+This paper investigates the pricing of bank loans relative to capital market debt. The analysis uses a novel sample of loans matched with bond spreads from the same firm on the same date. After accounting for seniority, lenders earn a large premium relative to the bond‐implied credit spread. In a sample of secured term loans to noninvestment‐grade firms, the average premium is 140 to 170 bps or about half of the all‐in‐drawn spread. This is the first direct evidence of firms' willingness to pay for bank credit and raises questions about the nature of competition in the loan market.</dc:description>
+      <dc:creator>
+MICHAEL SCHWERT
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12849?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;This paper investigates the pricing of bank loans relative to capital market debt. The analysis uses a novel sample of loans matched with bond spreads from the same firm on the same date. After accounting for seniority, lenders earn a large premium relative to the bond‐implied credit spread. In a sample of secured term loans to noninvestment‐grade firms, the average premium is 140 to 170 bps or about half of the all‐in‐drawn spread. This is the first direct evidence of firms' willingness to pay for bank credit and raises questions about the nature of competition in the loan market.&lt;/p&gt;</content:encoded>
+      <description>The Journal of Finance, EarlyView. </description>
+      <dc:title>Does Borrowing from Banks Cost More than Borrowing from the Market?</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12849</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-10-30T07:54:06-07:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:doi>10.1111/jofi.12849</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12849?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12643?af=R">
+      <title>Ralph S. J. Koijen</title>
+      <dc:description/>
+      <dc:creator/>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12643?af=R</link>
+      <content:encoded/>
+      <description>The Journal of Finance, Volume 74, Issue 5, Page 2149-2151, October 2019. </description>
+      <dc:title>Ralph S. J. Koijen</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12643</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-09-16T09:32:27-07:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:volume>74</prism:volume>
+      <prism:number>5</prism:number>
+      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1111/jofi.12643</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12643?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>AWARDS AND PRIZES</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12824?af=R">
+      <title>A Note on “Risk Reduction in Large Portfolios: Why Imposing the Wrong Constraints Helps”</title>
+      <dc:description>
+ABSTRACT
+This note corrects an error in the proof of Proposition 2 of “Risk Reduction in Large Portfolios: Why Imposing the Wrong Constraint Helps” that appeared in the Journal of Finance, August 2003.</dc:description>
+      <dc:creator>
+RAVI JAGANNATHAN, 
+TONGSHU MA, 
+JIAQI ZHANG
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12824?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;This note corrects an error in the proof of Proposition 2 of “Risk Reduction in Large Portfolios: Why Imposing the Wrong Constraint Helps” that appeared in the &lt;i&gt;Journal of Finance&lt;/i&gt;, August 2003.&lt;/p&gt;</content:encoded>
+      <description>The Journal of Finance, Volume 74, Issue 5, Page 2689-2696, October 2019. </description>
+      <dc:title>A Note on “Risk Reduction in Large Portfolios: Why Imposing the Wrong Constraints Helps”</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12824</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-09-16T09:32:27-07:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:volume>74</prism:volume>
+      <prism:number>5</prism:number>
+      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1111/jofi.12824</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12824?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>REPLICATIONS AND CORRIGENDA</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12817?af=R">
+      <title>The Best of Both Worlds: Accessing Emerging Economies via Developed Markets</title>
+      <dc:description>
+ABSTRACT
+A growing body of evidence suggests that the benefits of international diversification via developed markets have declined dramatically. While emerging markets still offer diversification opportunities, their public equity indices capture only a fraction of emerging countries' economic activity. We propose a diversification approach that exploits the global connectedness of developed countries to gain exposure to emerging countries' overall economies rather than their shallow equity markets. In doing so, we demonstrate that developed markets still offer substantial diversification benefits beyond those available through equity indices. Our results suggest that relying on equity indices to assess diversification benefits understates diversification gains.</dc:description>
+      <dc:creator>
+JOON WOO BAE, 
+REDOUANE ELKAMHI, 
+MIKHAIL SIMUTIN
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12817?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;A growing body of evidence suggests that the benefits of international diversification via developed markets have declined dramatically. While emerging markets still offer diversification opportunities, their public equity indices capture only a fraction of emerging countries' economic activity. We propose a diversification approach that exploits the global connectedness of developed countries to gain exposure to emerging countries' overall economies rather than their shallow equity markets. In doing so, we demonstrate that developed markets &lt;i&gt;still&lt;/i&gt; offer substantial diversification benefits beyond those available through equity indices. Our results suggest that relying on equity indices to assess diversification benefits understates diversification gains.&lt;/p&gt;</content:encoded>
+      <description>The Journal of Finance, Volume 74, Issue 5, Page 2579-2617, October 2019. </description>
+      <dc:title>The Best of Both Worlds: Accessing Emerging Economies via Developed Markets</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12817</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-09-16T09:32:27-07:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:volume>74</prism:volume>
+      <prism:number>5</prism:number>
+      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1111/jofi.12817</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12817?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12820?af=R">
+      <title>Ratings Quality and Borrowing Choice</title>
+      <dc:description>
+ABSTRACT
+Past studies document that incentive conflicts may lead issuer‐paid credit rating agencies to provide optimistically biased ratings. In this paper, we present evidence that investors question the quality of issuer‐paid ratings and raise corporate bond yields where the issuer‐paid rating is more positive than benchmark investor‐paid ratings. We also find that some firms with favorable issuer‐paid ratings substitute public bonds with borrowings from informed intermediaries to mitigate the “lemons discount” associated with poor quality ratings. Overall, our results suggest that the quality of issuer‐paid ratings has significant effects on borrowing costs and the choice of debt.
+</dc:description>
+      <dc:creator>
+DOMINIQUE C. BADOER, 
+CEM DEMIROGLU, 
+CHRISTOPHER M. JAMES
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12820?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Past studies document that incentive conflicts may lead issuer‐paid credit rating agencies to provide optimistically biased ratings. In this paper, we present evidence that investors question the quality of issuer‐paid ratings and raise corporate bond yields where the issuer‐paid rating is more positive than benchmark investor‐paid ratings. We also find that some firms with favorable issuer‐paid ratings substitute public bonds with borrowings from informed intermediaries to mitigate the “lemons discount” associated with poor quality ratings. Overall, our results suggest that the quality of issuer‐paid ratings has significant effects on borrowing costs and the choice of debt.&lt;/p&gt;
+</content:encoded>
+      <description>The Journal of Finance, Volume 74, Issue 5, Page 2619-2665, October 2019. </description>
+      <dc:title>Ratings Quality and Borrowing Choice</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12820</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-09-16T09:32:27-07:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:volume>74</prism:volume>
+      <prism:number>5</prism:number>
+      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1111/jofi.12820</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12820?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12823?af=R">
+      <title>Do Portfolio Manager Contracts Contract Portfolio Management?</title>
+      <dc:description>
+ABSTRACT
+Most mutual fund managers have performance‐based contracts. Our theory predicts that mutual fund managers with asymmetric contracts and mid‐year performance close to their announced benchmark increase their portfolio risk in the second part of the year. As predicted by our theory, performance deviation from the benchmark decreases risk‐shifting only for managers with performance contracts. Deviation from the benchmark dominates incentives from the flow‐performance relation, suggesting that risk‐shifting is motivated more by management contracts than by a tournament to capture flows.</dc:description>
+      <dc:creator>
+JUNG HOON LEE, 
+CHARLES TRZCINKA, 
+SHYAM VENKATESAN
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12823?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Most mutual fund managers have performance‐based contracts. Our theory predicts that mutual fund managers with asymmetric contracts and mid‐year performance close to their announced benchmark increase their portfolio risk in the second part of the year. As predicted by our theory, performance deviation from the benchmark decreases risk‐shifting only for managers with performance contracts. Deviation from the benchmark dominates incentives from the flow‐performance relation, suggesting that risk‐shifting is motivated more by management contracts than by a tournament to capture flows.&lt;/p&gt;</content:encoded>
+      <description>The Journal of Finance, Volume 74, Issue 5, Page 2543-2577, October 2019. </description>
+      <dc:title>Do Portfolio Manager Contracts Contract Portfolio Management?</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12823</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-09-16T09:32:27-07:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:volume>74</prism:volume>
+      <prism:number>5</prism:number>
+      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1111/jofi.12823</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12823?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12818?af=R">
+      <title>Stock Returns over the FOMC Cycle</title>
+      <dc:description>
+ABSTRACT
+We document that since 1994, the equity premium is earned entirely in weeks 0, 2, 4, and 6 in Federal Open Market Committee (FOMC) cycle time, that is, even weeks starting from the last FOMC meeting. We causally tie this fact to the Fed by studying intermeeting target changes, Fed funds futures, and internal Board of Governors meetings. The Fed has affected the stock market via unexpectedly accommodating policy, leading to large reductions in the equity premium. Evidence suggests systematic informal communication of Fed officials with the media and financial sector as a channel through which news about monetary policy has reached the market.
+</dc:description>
+      <dc:creator>
+ANNA CIESLAK, 
+ADAIR MORSE, 
+ANNETTE VISSING‐JORGENSEN
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12818?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;We document that since 1994, the equity premium is earned entirely in weeks 0, 2, 4, and 6 in Federal Open Market Committee (FOMC) cycle time, that is, even weeks starting from the last FOMC meeting. We causally tie this fact to the Fed by studying intermeeting target changes, Fed funds futures, and internal Board of Governors meetings. The Fed has affected the stock market via unexpectedly accommodating policy, leading to large reductions in the equity premium. Evidence suggests systematic informal communication of Fed officials with the media and financial sector as a channel through which news about monetary policy has reached the market.&lt;/p&gt;
+</content:encoded>
+      <description>The Journal of Finance, Volume 74, Issue 5, Page 2201-2248, October 2019. </description>
+      <dc:title>Stock Returns over the FOMC Cycle</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12818</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-09-16T09:32:27-07:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:volume>74</prism:volume>
+      <prism:number>5</prism:number>
+      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1111/jofi.12818</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12818?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12819?af=R">
+      <title>Personal Experiences and Expectations about Aggregate Outcomes</title>
+      <dc:description>
+ABSTRACT
+Using novel survey data, we document that individuals extrapolate from recent personal experiences when forming expectations about aggregate economic outcomes. Recent locally experienced house price movements affect expectations about future U.S. house price changes and higher experienced house price volatility causes respondents to report a wider distribution over expected U.S. house price movements. When we exploit within‐individual variation in employment status, we find that individuals who personally experience unemployment become more pessimistic about future nationwide unemployment. The extent of extrapolation is unrelated to how informative personal experiences are, is inconsistent with risk adjustment, and is more pronounced for less sophisticated individuals.</dc:description>
+      <dc:creator>
+THERESA KUCHLER, 
+BASIT ZAFAR
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12819?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Using novel survey data, we document that individuals extrapolate from recent personal experiences when forming expectations about aggregate economic outcomes. Recent locally experienced house price movements affect expectations about future U.S. house price changes and higher experienced house price volatility causes respondents to report a wider distribution over expected U.S. house price movements. When we exploit within‐individual variation in employment status, we find that individuals who personally experience unemployment become more pessimistic about future nationwide unemployment. The extent of extrapolation is unrelated to how informative personal experiences are, is inconsistent with risk adjustment, and is more pronounced for less sophisticated individuals.&lt;/p&gt;</content:encoded>
+      <description>The Journal of Finance, Volume 74, Issue 5, Page 2491-2542, October 2019. </description>
+      <dc:title>Personal Experiences and Expectations about Aggregate Outcomes</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12819</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-09-16T09:32:27-07:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:volume>74</prism:volume>
+      <prism:number>5</prism:number>
+      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1111/jofi.12819</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12819?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12780?af=R">
+      <title>The Globalization Risk Premium</title>
+      <dc:description>
+ABSTRACT
+In this paper, we investigate how globalization is reflected in asset prices. We use shipping costs to measure firms' exposure to globalization. Firms in low shipping cost industries carry a 7% risk premium, suggesting that their cash flows covary negatively with investors' marginal utility. We find that the premium emanates from the risk of displacement of least efficient firms triggered by import competition. These findings suggest that foreign productivity shocks are associated with times when consumption is dear for investors. We discuss conditions under which a standard model of trade with asset prices can rationalize this puzzle.</dc:description>
+      <dc:creator>
+JEAN‐NOËL BARROT, 
+ERIK LOUALICHE, 
+JULIEN SAUVAGNAT
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12780?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;In this paper, we investigate how globalization is reflected in asset prices. We use shipping costs to measure firms' exposure to globalization. Firms in low shipping cost industries carry a 7% risk premium, suggesting that their cash flows covary negatively with investors' marginal utility. We find that the premium emanates from the risk of displacement of least efficient firms triggered by import competition. These findings suggest that foreign productivity shocks are associated with times when consumption is dear for investors. We discuss conditions under which a standard model of trade with asset prices can rationalize this puzzle.&lt;/p&gt;</content:encoded>
+      <description>The Journal of Finance, Volume 74, Issue 5, Page 2391-2439, October 2019. </description>
+      <dc:title>The Globalization Risk Premium</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12780</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-09-16T09:32:27-07:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:volume>74</prism:volume>
+      <prism:number>5</prism:number>
+      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1111/jofi.12780</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12780?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12784?af=R">
+      <title>Reassessing False Discoveries in Mutual Fund Performance: Skill, Luck, or Lack of Power?</title>
+      <dc:description>
+ABSTRACT
+Barras, Scaillet, and Wermers propose the false discovery rate (FDR) to separate skill (alpha) from luck in fund performance. Using simulations with parameters informed by the data, we find that this methodology is conservative and underestimates the proportion of nonzero‐alpha funds. For example, 65% of funds with economically large alphas of ±2% are misclassified as zero alpha. This bias arises from the low signal‐to‐noise ratio in fund returns and the resulting low statistical power. Our results question FDR's applicability in performance evaluation and other domains with low power, and can materially change the conclusion that most funds have zero alpha.</dc:description>
+      <dc:creator>
+ANGIE ANDRIKOGIANNOPOULOU, 
+FILIPPOS PAPAKONSTANTINOU
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12784?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Barras, Scaillet, and Wermers propose the false discovery rate (FDR) to separate skill (alpha) from luck in fund performance. Using simulations with parameters informed by the data, we find that this methodology is conservative and underestimates the proportion of nonzero‐alpha funds. For example, 65% of funds with economically large alphas of ±2% are misclassified as zero alpha. This bias arises from the low signal‐to‐noise ratio in fund returns and the resulting low statistical power. Our results question FDR's applicability in performance evaluation and other domains with low power, and can materially change the conclusion that most funds have zero alpha.&lt;/p&gt;</content:encoded>
+      <description>The Journal of Finance, Volume 74, Issue 5, Page 2667-2688, October 2019. </description>
+      <dc:title>Reassessing False Discoveries in Mutual Fund Performance: Skill, Luck, or Lack of Power?</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12784</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-09-16T09:32:27-07:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:volume>74</prism:volume>
+      <prism:number>5</prism:number>
+      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1111/jofi.12784</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12784?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>REPLICATIONS AND CORRIGENDA</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12785?af=R">
+      <title>The Dividend Disconnect</title>
+      <dc:description>
+ABSTRACT
+Many individual investors, mutual funds, and institutions trade as if dividends and capital gains are disconnected attributes, not fully appreciating that dividends result in price decreases. Behavioral trading patterns (e.g., the disposition effect) are driven by price changes instead of total returns. Investors rarely reinvest dividends, and trade as if dividends are a separate, stable income stream. Analysts fail to account for the effect of dividends on price, leading to optimistic price forecasts for dividend‐paying stocks. Demand for dividends is systematically higher in periods of low interest rates and poor market performance, leading to lower returns for dividend‐paying stocks.</dc:description>
+      <dc:creator>
+SAMUEL M. HARTZMARK, 
+DAVID H. SOLOMON
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12785?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Many individual investors, mutual funds, and institutions trade as if dividends and capital gains are disconnected attributes, not fully appreciating that dividends result in price decreases. Behavioral trading patterns (e.g., the disposition effect) are driven by price changes instead of total returns. Investors rarely reinvest dividends, and trade as if dividends are a separate, stable income stream. Analysts fail to account for the effect of dividends on price, leading to optimistic price forecasts for dividend‐paying stocks. Demand for dividends is systematically higher in periods of low interest rates and poor market performance, leading to lower returns for dividend‐paying stocks.&lt;/p&gt;</content:encoded>
+      <description>The Journal of Finance, Volume 74, Issue 5, Page 2153-2199, October 2019. </description>
+      <dc:title>The Dividend Disconnect</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12785</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-09-16T09:32:27-07:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:volume>74</prism:volume>
+      <prism:number>5</prism:number>
+      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1111/jofi.12785</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12785?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12821?af=R">
+      <title>Foreclosure Contagion and the Neighborhood Spillover Effects of Mortgage Defaults</title>
+      <dc:description>
+ABSTRACT
+In this paper, I identify shocks to interest rates resulting from two administrative details in adjustable‐rate mortgage contract terms: the choice of financial index and the choice of lookback period. I find that a 1 percentage point increase in interest rate at the time of adjustable‐rate mortgage (ARM) reset results in a 2.5 percentage increase in the probability of foreclosure in the following year, and that each foreclosure filing leads to an additional 0.3 to 0.6 completed foreclosures within a 0.10‐mile radius. In explaining this result, I emphasize price effects, bank‐supply responses, and borrower responses arising from peer effects.</dc:description>
+      <dc:creator>
+ARPIT GUPTA
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12821?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;In this paper, I identify shocks to interest rates resulting from two administrative details in adjustable‐rate mortgage contract terms: the choice of financial index and the choice of lookback period. I find that a 1 percentage point increase in interest rate at the time of adjustable‐rate mortgage (ARM) reset results in a 2.5 percentage increase in the probability of foreclosure in the following year, and that each foreclosure filing leads to an additional 0.3 to 0.6 completed foreclosures within a 0.10‐mile radius. In explaining this result, I emphasize price effects, bank‐supply responses, and borrower responses arising from peer effects.&lt;/p&gt;</content:encoded>
+      <description>The Journal of Finance, Volume 74, Issue 5, Page 2249-2301, October 2019. </description>
+      <dc:title>Foreclosure Contagion and the Neighborhood Spillover Effects of Mortgage Defaults</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12821</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-09-16T09:32:27-07:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:volume>74</prism:volume>
+      <prism:number>5</prism:number>
+      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1111/jofi.12821</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12821?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12822?af=R">
+      <title>How Do Investment Ideas Spread through Social Interaction? Evidence from a Ponzi Scheme</title>
+      <dc:description>
+ABSTRACT
+A unique data set from a large Ponzi scheme allows me to study word‐of‐mouth diffusion of investment information. Investors could join the scheme only by invitation from an existing member, which allows me to observe how the idea spreads from one person to the next based on inviter‐invitee relationships. I find that the observed social network has a scale‐free connectivity structure, which significantly facilitates the diffusion of the investment idea and contributes to the growth and survival of the socially spreading Ponzi scheme. I further find that investors invest more if their inviter has comparatively higher age, education, and income.
+</dc:description>
+      <dc:creator>
+VILLE RANTALA
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12822?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;A unique data set from a large Ponzi scheme allows me to study word‐of‐mouth diffusion of investment information. Investors could join the scheme only by invitation from an existing member, which allows me to observe how the idea spreads from one person to the next based on inviter‐invitee relationships. I find that the observed social network has a scale‐free connectivity structure, which significantly facilitates the diffusion of the investment idea and contributes to the growth and survival of the socially spreading Ponzi scheme. I further find that investors invest more if their inviter has comparatively higher age, education, and income.&lt;/p&gt;
+</content:encoded>
+      <description>The Journal of Finance, Volume 74, Issue 5, Page 2349-2389, October 2019. </description>
+      <dc:title>How Do Investment Ideas Spread through Social Interaction? Evidence from a Ponzi Scheme</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12822</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-09-16T09:32:27-07:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:volume>74</prism:volume>
+      <prism:number>5</prism:number>
+      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1111/jofi.12822</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12822?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12777?af=R">
+      <title>Limited Investment Capital and Credit Spreads</title>
+      <dc:description>
+ABSTRACT
+Using proprietary credit default swap (CDS) data, I investigate how capital shocks at protection sellers impact pricing in the CDS market. Seller capital shocks—measured as CDS portfolio margin payments—account for 12% of the time‐series variation in weekly spread changes, a significant amount given that standard credit factors account for 18% during my sample. In addition, seller shocks possess information for spreads that is independent of institution‐wide measures of constraints. These findings imply a high degree of market segmentation, and suggest that frictions within specialized financial institutions prevent capital from flowing into the market at shorter horizons.</dc:description>
+      <dc:creator>
+EMIL N. SIRIWARDANE
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12777?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Using proprietary credit default swap (CDS) data, I investigate how capital shocks at protection sellers impact pricing in the CDS market. Seller capital shocks—measured as CDS portfolio margin payments—account for 12% of the time‐series variation in weekly spread changes, a significant amount given that standard credit factors account for 18% during my sample. In addition, seller shocks possess information for spreads that is independent of institution‐wide measures of constraints. These findings imply a high degree of market segmentation, and suggest that frictions within specialized financial institutions prevent capital from flowing into the market at shorter horizons.&lt;/p&gt;</content:encoded>
+      <description>The Journal of Finance, Volume 74, Issue 5, Page 2303-2347, October 2019. </description>
+      <dc:title>Limited Investment Capital and Credit Spreads</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12777</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-09-16T09:32:27-07:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:volume>74</prism:volume>
+      <prism:number>5</prism:number>
+      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1111/jofi.12777</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12777?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12779?af=R">
+      <title>Proxy Advisory Firms: The Economics of Selling Information to Voters</title>
+      <dc:description>
+ABSTRACT
+We analyze how proxy advisors, which sell voting recommendations to shareholders, affect corporate decision‐making. If the quality of the advisor's information is low, there is overreliance on its recommendations and insufficient private information production. In contrast, if the advisor's information is precise, it may be underused because the advisor rations its recommendations to maximize profits. Overall, the advisor's presence leads to more informative voting only if its information is sufficiently precise. We evaluate several proposals on regulating proxy advisors and show that some suggested policies, such as reducing proxy advisors' market power or decreasing litigation pressure, can have negative effects.</dc:description>
+      <dc:creator>
+ANDREY MALENKO, 
+NADYA MALENKO
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12779?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;We analyze how proxy advisors, which sell voting recommendations to shareholders, affect corporate decision‐making. If the quality of the advisor's information is low, there is overreliance on its recommendations and insufficient private information production. In contrast, if the advisor's information is precise, it may be underused because the advisor rations its recommendations to maximize profits. Overall, the advisor's presence leads to more informative voting only if its information is sufficiently precise. We evaluate several proposals on regulating proxy advisors and show that some suggested policies, such as reducing proxy advisors' market power or decreasing litigation pressure, can have negative effects.&lt;/p&gt;</content:encoded>
+      <description>The Journal of Finance, Volume 74, Issue 5, Page 2441-2490, October 2019. </description>
+      <dc:title>Proxy Advisory Firms: The Economics of Selling Information to Voters</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12779</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-09-16T09:32:27-07:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:volume>74</prism:volume>
+      <prism:number>5</prism:number>
+      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1111/jofi.12779</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12779?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12642?af=R">
+      <title>ANNOUNCEMENTS</title>
+      <dc:description/>
+      <dc:creator/>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12642?af=R</link>
+      <content:encoded/>
+      <description>The Journal of Finance, Volume 74, Issue 5, Page 2699-2699, October 2019. </description>
+      <dc:title>ANNOUNCEMENTS</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12642</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-09-16T09:32:27-07:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:volume>74</prism:volume>
+      <prism:number>5</prism:number>
+      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1111/jofi.12642</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12642?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ANNOUNCEMENTS</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12641?af=R">
+      <title>MISCELLANEA</title>
+      <dc:description/>
+      <dc:creator/>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12641?af=R</link>
+      <content:encoded/>
+      <description>The Journal of Finance, Volume 74, Issue 5, Page 2697-2698, October 2019. </description>
+      <dc:title>MISCELLANEA</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12641</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-09-16T09:32:27-07:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:volume>74</prism:volume>
+      <prism:number>5</prism:number>
+      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1111/jofi.12641</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12641?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>MISCELLANEA</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12644?af=R">
+      <title>ISSUE INFORMATION FM</title>
+      <dc:description/>
+      <dc:creator/>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12644?af=R</link>
+      <content:encoded/>
+      <description>The Journal of Finance, Volume 74, Issue 5, Page 2145-2147, October 2019. </description>
+      <dc:title>ISSUE INFORMATION FM</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12644</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-09-16T09:32:27-07:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:volume>74</prism:volume>
+      <prism:number>5</prism:number>
+      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1111/jofi.12644</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12644?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ISSUE INFORMATION</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12645?af=R">
+      <title>ISSUE INFORMATION BM</title>
+      <dc:description/>
+      <dc:creator/>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12645?af=R</link>
+      <content:encoded/>
+      <description>The Journal of Finance, Volume 74, Issue 5, Page 2700-2701, October 2019. </description>
+      <dc:title>ISSUE INFORMATION BM</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12645</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-09-16T09:32:27-07:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:volume>74</prism:volume>
+      <prism:number>5</prism:number>
+      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1111/jofi.12645</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12645?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ISSUE INFORMATION</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12834?af=R">
+      <title>Words Speak Louder without Actions</title>
+      <dc:description>
+ABSTRACT
+Information and control rights are central aspects of leadership, management, and corporate governance. This paper studies a principal‐agent model that features both communication and intervention as alternative means to exert influence. The main result shows that a principal's power to intervene in an agent's decision limits the ability of the principal to effectively communicate her private information. The perverse effect of intervention on communication can harm the principal, especially when the cost of intervention is low or the underlying agency problem is severe. These novel results are applied to managerial leadership, corporate boards, private equity, and shareholder activism.</dc:description>
+      <dc:creator>
+DORON LEVIT
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12834?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Information and control rights are central aspects of leadership, management, and corporate governance. This paper studies a principal‐agent model that features both communication and intervention as alternative means to exert influence. The main result shows that a principal's power to intervene in an agent's decision limits the ability of the principal to effectively communicate her private information. The perverse effect of intervention on communication can harm the principal, especially when the cost of intervention is low or the underlying agency problem is severe. These novel results are applied to managerial leadership, corporate boards, private equity, and shareholder activism.&lt;/p&gt;</content:encoded>
+      <description>The Journal of Finance, EarlyView. </description>
+      <dc:title>Words Speak Louder without Actions</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12834</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-08-06T04:00:58-07:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:doi>10.1111/jofi.12834</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12834?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12830?af=R">
+      <title>Learning from Coworkers: Peer Effects on Individual Investment Decisions</title>
+      <dc:description>
+ABSTRACT
+Using unique data on employee stock purchase plans (ESPPs), we examine the influence of networks on investment decisions. Comparing employees within a firm during the same election window with metro area fixed effects, we find that the choices of coworkers in the firm's ESPP exert a significant influence on employees’ own decisions to participate and trade. Moreover, we find that the presence of high‐information employees magnifies the effects of peer networks. Given participation in an ESPP is value‐maximizing, our analysis suggests the potential of networks and targeted investor education to improve financial decision‐making.
+</dc:description>
+      <dc:creator>
+PAIGE OUIMET, 
+GEOFFREY TATE
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12830?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Using unique data on employee stock purchase plans (ESPPs), we examine the influence of networks on investment decisions. Comparing employees within a firm during the same election window with metro area fixed effects, we find that the choices of coworkers in the firm's ESPP exert a significant influence on employees’ own decisions to participate and trade. Moreover, we find that the presence of high‐information employees magnifies the effects of peer networks. Given participation in an ESPP is value‐maximizing, our analysis suggests the potential of networks and targeted investor education to improve financial decision‐making.&lt;/p&gt;
+</content:encoded>
+      <description>The Journal of Finance, EarlyView. </description>
+      <dc:title>Learning from Coworkers: Peer Effects on Individual Investment Decisions</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12830</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-07-30T09:33:52-07:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:doi>10.1111/jofi.12830</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12830?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1111/jofi.12831?af=R">
+      <title>Pledgeability, Industry Liquidity, and Financing Cycles</title>
+      <dc:description>
+ABSTRACT
+Why do firms choose high debt when they anticipate high valuations, and underperform subsequently? We propose a theory of financing cycles where the importance of creditors’ control rights over cash flows (“pledgeability”) varies with industry liquidity. The market allows firms take on more debt when they anticipate higher future liquidity. However, both high anticipated liquidity and the resulting high debt limit their incentives to enhance pledgeability. This has prolonged adverse effects in a downturn. Because these effects are hard to contract upon, higher anticipated liquidity can also reduce a firm's current access to finance.
+</dc:description>
+      <dc:creator>
+DOUGLAS W. DIAMOND, 
+YUNZHI HU, 
+RAGHURAM G. RAJAN
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12831?af=R</link>
+      <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Why do firms choose high debt when they anticipate high valuations, and underperform subsequently? We propose a theory of financing cycles where the importance of creditors’ control rights over cash flows (“pledgeability”) varies with industry liquidity. The market allows firms take on more debt when they anticipate higher future liquidity. However, both high anticipated liquidity and the resulting high debt limit their incentives to enhance pledgeability. This has prolonged adverse effects in a downturn. Because these effects are hard to contract upon, higher anticipated liquidity can also reduce a firm's current access to finance.&lt;/p&gt;
+</content:encoded>
+      <description>The Journal of Finance, EarlyView. </description>
+      <dc:title>Pledgeability, Industry Liquidity, and Financing Cycles</dc:title>
+      <dc:identifier>doi:10.1111/jofi.12831</dc:identifier>
+      <dc:source>The Journal of Finance</dc:source>
+      <dc:date>2019-07-26T12:59:33-07:00</dc:date>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <prism:doi>10.1111/jofi.12831</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12831?af=R</prism:url>
+      <prism:copyright/>
+      <prism:section>ARTICLE</prism:section>
+   </item>
+</rdf:RDF>
